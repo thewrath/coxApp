@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gauges.qml</file>
+        <file>Search.qml</file>
+        <file>images/clear.png</file>
+        <file>images/default.png</file>
+        <file>images/lineedit-bg.png</file>
+        <file>InputBox.qml</file>
+    </qresource>
+</RCC>
